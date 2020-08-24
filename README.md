@@ -1,5 +1,7 @@
 ## New York City Taxi Trips
 
+<br>
+
 Work done on a database of taxi trips in New York (2009 to 2012), inferring some views and statistics about the data.
 
 First, clone this repository to your local machine:
