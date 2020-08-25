@@ -14,7 +14,6 @@ To run the application, you must have python 3 installed in your environment. Af
 
 ```
 pip install pyodbc
-pip install json
 pip install pandas
 pip install matplotlib
 ```
